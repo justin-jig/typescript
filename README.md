@@ -1,13 +1,13 @@
 
 
-<h1 align="center">typescript Repository</h1>
+<h1 align="center">Typescript Repository</h1>
 <p align="center">
   <span>노트 정리 : <a href="https://justin-jig.github.io/justin-book/front/core/">https://justin-jig.github.io/justin-book/front/core/</a></span><br/>
 </p>
 
 
 ### 🧭 Repository 개요
-> typescript  주제로 **개인 학습 기록 및 기술 정리용**입니다.  
+> Typescript  주제로 **개인 학습 기록 및 기술 정리용**입니다.  
 
 | 구분 | 설명 |
 |------|------|
